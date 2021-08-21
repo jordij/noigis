@@ -1,4 +1,6 @@
-output/
+output/*.tif
+output/*.csv
+
 
 __pycache__/
 *.py[cod]

@@ -1,2 +1,5 @@
-output/*
+output/
+
 __pycache__/
+*.py[cod]
+*$py.class
